@@ -1,8 +1,6 @@
 # 100 Days Of Code - Daily Log
 
-## Day 0: September 15, 2021 (Example 1)
-
-(delete me or comment me out)
+## Day 1: September 28, 2021
 
 ### Today's Progress: Fixed CSS, worked on canvas functionality for the app.
 
