@@ -7,7 +7,7 @@
 ### Thoughts: 
 This was very easy as i have tried this already, but since I want to commit to this course and code for 100 days to form a habbit, will not skip and commit to this.
 
-### Link to project1: https://github.com/atomic-binary/100-days-of-code/blob/5782a5417aa11768ff829aae978ac1cfe71f0e79/code-snippets/band-name-generator.py
+### Link to project1: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/band-name-generator.py
 
 ## Day 0:  (Example 2)
 
