@@ -9,9 +9,9 @@ This was very easy as i have tried this already, but since I want to commit to t
 
 ### Link to project1: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/band-name-generator.py
 
-## Day 1: October 7th, 2021
+## Day 1: October 8th, 2021
 
-### Today's Progress: Fixed CSS, worked on canvas functionality for the app.
+### Today's Progress: Data types, Type Error/Checking/Conversion and F strings
 
 ### Thoughts:
 I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
