@@ -1,6 +1,6 @@
 # 100 Days Of Code - Daily Log
 
-## Day 1: October 8th, 2021
+## Day 0: October 7th, 2021
 
 ### Today's Progress: Started off the course with variables, string manipulation and debugging errors.
 
@@ -9,9 +9,7 @@ This was very easy as i have tried this already, but since I want to commit to t
 
 ### Link to project1: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/band-name-generator.py
 
-## Day 0:  (Example 2)
-
-(delete me or comment me out)
+## Day 1: October 7th, 2021
 
 ### Today's Progress: Fixed CSS, worked on canvas functionality for the app.
 
