@@ -19,3 +19,14 @@ f-String is a very handy way to print different data types without the need to c
 Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/day-2-learnings.py
 
 #### Link(s) to work: Tip Calculator : https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/tip-calculator.py
+
+## Day 2: October 9th, 2021
+
+### Today's Progress: Conditional statements, Logical Operators, Code Blocks and Scope
+
+### Thoughts:
+It was easy but interesting with short coding exercises. Have good understanding of type conversion, arithmetic operators and their order now.
+f-String is a very handy way to print different data types without the need to convert them first.
+Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/day-2-learnings.py
+
+#### Link(s) to work: Tip Calculator : 
