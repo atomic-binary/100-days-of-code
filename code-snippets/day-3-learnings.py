@@ -211,7 +211,7 @@ love_count = combined_names.count("l") + combined_names.count("o") + combined_na
 # print(true_love_count2)
 score = int(str(true_count) + str(love_count))
 # print(score)
-if score < 10 and score > 90:
+if score < 10 or score > 90:
     print(f"Your score is {score}, you go together like coke and mentos.")
 elif score >= 40 and score <= 50:
     print(f"Your score is {score}, you are alright together.")
