@@ -7,7 +7,7 @@
 ### Thoughts: 
 This was very easy as i have tried this already, but since I want to commit to this course and code for 100 days to form a habbit, will not skip and commit to this.
 
-### Link to project1: Band Name Generator : https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/band-name-generator.py
+## Link to project1: Band Name Generator : https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/band-name-generator.py
 
 ## Day 1: October 8th, 2021
 
@@ -18,4 +18,4 @@ It was easy but interesting with short coding exercises. Have good understanding
 f-String is a very handy way to print different data types without the need to convert them first.
 Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/day-2-learnings.py
 
-### Link(s) to work: Tip Calculator : https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/tip-calculator.py
+## Link(s) to work: Tip Calculator : https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/tip-calculator.py
