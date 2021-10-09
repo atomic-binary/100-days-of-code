@@ -203,9 +203,11 @@ print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
 
-true_count = name1.count("t") + name1.count("r") + name1.count("u") + name1.count("e") + name2.count("t") + name2.count("r") + name2.count("u") + name2.count("e")
+combined_names = name1.lower() + name2.lower()
+
+true_count = combined_names.count("t") + combined_names.count("r") + combined_names.count("u") + combined_names.count("e")
 # print(true_love_count1)
-love_count =  + name2.count("l") + name2.count("o") + name2.count("v") + name2.count("e") + name1.count("l") + name1.count("o") + name1.count("v") + name1.count("e")
+love_count = combined_names.count("l") + combined_names.count("o") + combined_names.count("v") + combined_names.count("e")
 # print(true_love_count2)
 score = int(str(true_count) + str(love_count))
 # print(score)
