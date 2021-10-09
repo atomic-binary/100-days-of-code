@@ -76,12 +76,45 @@ year = int(input("Which year do you want to check?\n"))
 if year % 4 == 0:
     if year % 100 == 0:
         if year % 400 == 0:
-            print(f"{year} is/was a leap year.")
+            print(f"{year} is a leap year.")
         else:
-            print(f"{year} is/was not a leap year.")
+            print(f"{year} is not a leap year.")
     else:
-        print(f"{year} is/was a leap year.")
+        print(f"{year} is a leap year.")
 else:
-    print(f"{year} is/was not a leap year.")
+    print(f"{year} is not a leap year.")
 
+# if/elif/else                  Multiple if
+# if condition:                 if condition:
+#     do A                          do A
+# elif condition:               if condition:
+#     do B                          do B
+# else:                         if condition:
+#     do C                          do C
+
+# In above lines, on the left only one condition will be carried out. While on the right side,
+# all the conditins are checked regardless of the other and if True, all will be carried out.
+
+# Multiple if conditions Rollercoaster exercises.
+print("Welcome to the rollercoaster!")
+height = int(input("What is your height in cm?\n"))
+bill = 0
+if height >= 120:
+    print("You can ride the Rollercoaster!")
+    age = int(input("What is your age?\n"))
+    if age < 12:
+        bill = 5
+        print("Children tickets are $5.")
+    elif age < 18:
+        bill = 7
+        print("Teen tickets are $7.")
+    else:
+        bill = 12
+        print("Adult tickets are $12.")
+    want_picture = input("Do you want to take a picture? y or n.\n")
+    if want_picture == "y":
+        bill += 3
+    print(f"Your final bill is {bill}.")
+else:
+    print("Sorry, you have to grow taller before you can ride.")
 
