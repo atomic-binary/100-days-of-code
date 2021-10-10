@@ -3,7 +3,8 @@ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing
 
 #### Draw flowchart diagrams:  https://draw.io
 
-#### Thonny - A tool to analyze programme during execution:  https://thonny.org/
+#### Thonny - https://thonny.org/
+A simple tool to analyze programme during execution.
 You can also simply install it if you're on linux with this command: `pip3 install thonny`.
 
 #### ASCII Art: https://ascii.co.uk/art
