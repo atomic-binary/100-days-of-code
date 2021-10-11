@@ -30,3 +30,13 @@ print(states_of_india)
 states_of_india.extend(["Goa", "West Bengal", "Punjab"])
 #another list can be added with extend(), this will be added to the end of the list.
 print(states_of_india)
+
+
+#Exrcise: Who's paying the bill.
+#You are going to write a program which will select a random name from a list of names. 
+# The person selected will have to pay for everybody's food bill.
+# important: You are not allowed to use the choice() function.
+all_names = input("Give me everybody's name, separated by a comma and a space.\n")
+names = all_names.split(", ")
+random_name = random.randint(0, len(names) - 1)
+print(f"{names[random_name]} is going to buy the meal today!")
