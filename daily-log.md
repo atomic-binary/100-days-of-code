@@ -32,10 +32,18 @@ Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-c
 
 ## Day 3: October 10th, 2021
 
-### Today's Progress: Randomisation and Lists
+### Today's Progress: Randomization, Lists
 
 ### Thoughts:
-
 Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/day-4-learnings.py
 
-#### Link(s) to work: Rock Paper Scissor game : 
+#### Link(s) to work: Rock Paper Scissor game :
+
+## Day 4: October 9th, 2021
+
+### Today's Progress: Loops
+
+### Thoughts:
+Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/day-4-learnings.py
+
+ #### Link(s) to work: 
