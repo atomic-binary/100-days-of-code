@@ -40,3 +40,7 @@ all_names = input("Give me everybody's name, separated by a comma and a space.\n
 names = all_names.split(", ")
 random_name = random.randint(0, len(names) - 1)
 print(f"{names[random_name]} is going to buy the meal today!")
+
+#same thing above but with the choice() function.
+list_length = len(names) - 1
+print(f"{random.choice(names)} is going to buy the meal tomorrow.")
