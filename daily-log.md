@@ -37,7 +37,7 @@ Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-c
 ### Thoughts:
 Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/day-4-learnings.py
 
-#### Link(s) to work: Rock Paper Scissor game :
+#### Link(s) to work: Rock Paper Scissor game : https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/rock_paper_scissors_game.py
 
 ## Day 4: October 9th, 2021
 
