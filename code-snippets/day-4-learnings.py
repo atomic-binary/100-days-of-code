@@ -44,3 +44,36 @@ print(f"{names[random_name]} is going to buy the meal today!")
 #same thing above but with the choice() function.
 list_length = len(names) - 1
 print(f"{random.choice(names)} is going to buy the meal tomorrow.")
+
+
+#Index errors.
+# print(states_of_india[8])  #most errors you will get are likely to be "off by one error" due to indexing.
+
+#Nested Lists.
+# fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+# print(fruits)
+# vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+# print(vegetables)
+# dirty_dozen = [fruits, vegetables]
+# print(dirty_dozen)
+
+#Treasure Map exercise.
+#You are going to write a program which will mark a spot with an X.
+#Your job is to write a program that allows you to mark a square on the map using a two-digit system.
+# The first digit is the vertical column number and the second digit is the horizontal row number.
+#First your program must take the user input and convert it to a usable format.
+#Next, you need to use it to update your nested list with an "x".
+row1 = ["⬜️","⬜️","⬜️"]
+row2 = ["⬜️","⬜️","⬜️"]
+row3 = ["⬜️","⬜️","⬜️"]
+map = [row1, row2, row3]
+print(f"{row1}\n{row2}\n{row3}")
+position = input("Where do you want to put the treasure? ")
+column = int(position[0])
+row = int(position[1])
+# selected_row = map[row - 1]
+# selected_row[column - 1] = "X"
+#Another simplified way to do this in a single line.
+map[row - 1][column - 1] = "X"
+
+print(f"{row1}\n{row2}\n{row3}")
