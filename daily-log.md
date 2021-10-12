@@ -41,7 +41,7 @@ Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-c
 
 #### Link(s) to work: Rock Paper Scissor game : https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/rock_paper_scissors_game.py
 
-## Day 5: October 9th, 2021
+## Day 5: October 11th, 2021
 
 ### Today's Progress: For Loops, Range and Code Blocks
 
