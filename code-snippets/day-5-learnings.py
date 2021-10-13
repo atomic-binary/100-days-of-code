@@ -16,8 +16,10 @@ student_heights = input("Input a list of student heights ").split()   #takes inp
 no_of_students = 0
 sum = 0
 
+# It's a good idea to use singular variable names in for loop in relation to the list.
 for n in range(0, len(student_heights)):
-  student_heights[n] = int(student_heights[n])    #this line of code takes each element and converts each element into integer.
+  student_heights[n] = int(student_heights[n])    
+  #this line of code takes each element and converts each element into integer.
   no_of_students += 1
   sum = sum + student_heights[n]
 average_height = sum / no_of_students
