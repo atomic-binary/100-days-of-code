@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
 #For Loop
-fruits = ["Apple", "Peach", "Pear"]
-for fruit in fruits:
-  print(fruit)
-  print(f"I love {fruit} juice.")
-print(fruits) 
+# fruits = ["Apple", "Peach", "Pear"]
+# for fruit in fruits:
+#   print(fruit)
+#   print(f"I love {fruit} juice.")
+# print(fruits) 
 
 #Average Height exercise
 # You are going to write a program that calculates the average student height from a List of heights.
@@ -21,4 +21,12 @@ for n in range(0, len(student_heights)):
   no_of_students += 1
   sum = sum + student_heights[n]
 average_height = sum / no_of_students
-print(average_height)
+print(round(average_height))
+
+#using sum() and len() function.
+# total_height = sum(student_heights)
+# number_of_students = len(student_heights)
+# average_height = round(total_height / number_of_students)
+# print(average_height)
+
+
