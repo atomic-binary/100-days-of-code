@@ -17,9 +17,7 @@ Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-c
 ## Day 3: October 9th, 2021
 
 ### Today's Progress: Conditional statements, Logical Operators, Code Blocks and Scope
-
-### Thoughts:
-Lot of good exercises helped understanding conditional statements and different implementations of them. I struggled with leap year program because of logic interpretation, and this is when i found out that drawing flowchart diagrams in situations like this where you are stuck really really helps a lot.  
+ 
 Here is a link to what I learned: https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/day-3-learnings.py
 
 #### Link(s) to work: Treasure Island game : https://github.com/atomic-binary/100-days-of-code/blob/main/code-snippets/treasure-island-game.py
